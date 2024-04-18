@@ -22,7 +22,7 @@ menuClase.addEventListener('click',() => {
     menu.style.display = 'block'
     content.style.color = 'white'
     content.style.border = '2px solid white'
-    home.style.background = 'url(images/mobile/image-hero.jpg)';
+    home.style.background = 'url(image-hero.jpg)';
     document.body.style.overflowY = 'scroll'
 })    
 
