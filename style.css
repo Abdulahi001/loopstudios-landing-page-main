@@ -29,6 +29,7 @@ body{
         height: 100vh;
         background: url(image-hero1.jpg) no-repeat;
         position: relative;
+        background-size:cover;
         .back{
             height: 100vh;
             background-color: black;
